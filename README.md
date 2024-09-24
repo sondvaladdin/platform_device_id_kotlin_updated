@@ -1,4 +1,4 @@
-Installing:
+# Installing:
 use like this in flutter pubscpec.yaml:
 
 dependencies:
