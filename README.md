@@ -1,3 +1,15 @@
+Installing:
+use like this in flutter pubscpec.yaml:
+
+dependencies:
+  ...
+  platform_device_id:
+    git:
+      url: https://github.com/faridfedora/platform_device_id_kotlin_updated.git
+      ref: main
+
+
+
 # platform_device_id
 
 get device id from android、ios、windows、linux、mac、web
