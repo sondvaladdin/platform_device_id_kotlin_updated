@@ -29,12 +29,4 @@ flutter:
         pluginClass: PlatformDeviceIdPlugin
       ios:
         pluginClass: PlatformDeviceIdPlugin
-      macos:
-        pluginClass: PlatformDeviceIdMacosPlugin
-      linux:
-        default_package: platform_device_id_linux
-      web:
-        default_package: platform_device_id_web
-      windows:
-        default_package: platform_device_id_windows
 
